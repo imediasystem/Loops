@@ -1,1 +1,1 @@
-Proste programiki pokazujące zasady działania pętli
+Simply short programs for education.
