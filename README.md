@@ -1,3 +1,5 @@
+![C# image](https://github.com/user-attachments/assets/88bd0b59-84b4-4a93-a975-2ff707eee07e)
+
 ## 🔥 Project Name - LOOPS
 
 Simply short programs for education.
